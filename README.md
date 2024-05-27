@@ -1,3 +1,4 @@
+### ❗️ This project is no longer maintained, many libraries may be out of date.
 # EvoluBot
 
 Hey there! :wave:
